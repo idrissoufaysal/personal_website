@@ -123,7 +123,7 @@ const Contact = () => {
                   </div>
                   <div>
                     <p className="font-medium">Téléphone</p>
-                    <a href="tel:+33123456789" className="text-muted-foreground hover:text-primary transition-colors">+33 1 23 45 67 89</a>
+                    <a href="tel:+228 79788961" className="text-muted-foreground hover:text-primary transition-colors">+33 1 23 45 67 89</a>
                   </div>
                 </motion.div>
                 
@@ -133,7 +133,7 @@ const Contact = () => {
                   </div>
                   <div>
                     <p className="font-medium">Localisation</p>
-                    <p className="text-muted-foreground">Paris, France</p>
+                    <p className="text-muted-foreground">Togo, Lomé</p>
                   </div>
                 </motion.div>
               </motion.div>
